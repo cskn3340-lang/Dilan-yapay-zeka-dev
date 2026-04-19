@@ -1,1 +1,1 @@
-# Dilan-yapay-zeka-dev
+# Dilan-yapay-zeka-ödev
