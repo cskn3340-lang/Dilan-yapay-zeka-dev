@@ -28,4 +28,5 @@ MoMA Müze Koleksiyonu Veri Analizi
 ​📈 Öne Çıkan Bulgular
 ​Müze koleksiyonunda bazı departmanların eser sayısı bakımından diğerlerinden çok daha baskın olduğu gözlemlenmiştir.
 ​Fiziksel boyut verileri (derinlik, ağırlık vb.) birçok eser için sisteme girilmemiştir.
-
+Notebook:https://www.kaggle.com/code/dilan0015/notebook386e066d9e
+Kaynak:https://www.kaggle.com/datasets/momanyc/museum-collection
